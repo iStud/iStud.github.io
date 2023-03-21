@@ -6,6 +6,8 @@ modify_date: 2023-03-20
 ---
 ### 搭建博客的大概步骤
 
+<!--more-->
+
 1.  注册一个 GitHub 账号（如果你还没有）。
 2.  fork 一个 jekyll 主题仓库，起名为：`your_username.github.io`，访问 http://your_username.github.io来查看博客的效果，注意用户名称别写错了。
 3.  为了有预览功能需要配置一些环境
