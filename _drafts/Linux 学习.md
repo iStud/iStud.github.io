@@ -52,6 +52,21 @@ cat -n
 grep -v
 grep -n
 grep -i
+grep ^a
+## 其他
+### echo
+### 重定向
+>
+>>
+### 管道
+｜
+## 远程管理
+### 开关机
+shutdown
+### ifconfig
+### ping
+
+
 
 
 
