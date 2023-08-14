@@ -9,3 +9,4 @@
    7. `@Environment`
    8. `onDelete()`
    9. `UserDefaults` `@AppStorage `
+   10. `Codable`
